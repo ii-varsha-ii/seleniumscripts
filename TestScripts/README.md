@@ -1,5 +1,5 @@
 Learning Selenium
 
-Languages: Python
-Tools: PyCharm
-Libraries included: Selenium Firefox Webdriver
+<strong> Languages: </strong> Python <br/>
+<strong> Tools: </strong> PyCharm <br/>
+<strong> Libraries included:</strong> Selenium Firefox Webdriver <br/>
